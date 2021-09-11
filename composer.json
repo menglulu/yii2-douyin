@@ -1,0 +1,22 @@
+{
+    "name": "menglulu/yii2-douyin",
+    "description": "aaa",
+    "type": "project",
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "php": ">=7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mll",
+            "email": "1291189741@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload":{
+		"psr-4":{
+			"menglulu\\yii2\\douyin\\":""
+		}
+	}
+}
